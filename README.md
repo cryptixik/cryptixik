@@ -1,11 +1,8 @@
-<p align="center" dir="auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptixik&theme=dark&show_icons=true&hide_border=false&count_private=true"></img>
-  <br>
-    <a href="https://discord.gg/4JDHdMTHKv" rel="nofollow">
-      <img alt="Discord" src="https://img.shields.io/badge/discord-151515?logo=dyscord&amp;logoColor=white&amp;style=for-the-badge"></a>
-    <a href="https://crx.tebex.io" rel="nofollow">
-      <img alt="Tebex" src="https://img.shields.io/badge/tebex-151515?logo=tebex&amp;logoColor=white&amp;style=for-the-badge"></a>
-    <a href="https://crx.gitbook.io/docs/" rel="nofollow">
-      <img alt="Gitbook" src="https://img.shields.io/badge/docs-151515?logo=page&amp;logoColor=white&amp;style=for-the-badge"></a>
-  </br>
-</p>
+<div align="center">
+  <img align="center"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cryptixik&hide_border=true&hide_title=true&theme=github-dark"/>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptixik&langs_count=3&hide_border=true&hide_title=true&theme=github_dark"/>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/?username=cryptixik&hide_border=true&hide_title=true&theme=github_dark"/>
+</div>
